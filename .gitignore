@@ -1,0 +1,30 @@
+__pycache__
+venv/
+.env
+.learn
+data/raw/
+data/processed/
+
+# Entornos virtuales
+venv/
+tf_env/
+env/
+
+# Datos
+data/raw/
+data/processed/
+
+# Modelos
+models/
+*.pkl
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
